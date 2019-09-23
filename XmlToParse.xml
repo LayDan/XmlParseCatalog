@@ -1,8 +1,6 @@
 <?xml version="1.0"?>
 <catalog>
-
     <book>
-
         <author>Gambardella, Matthew</author>
 
         <title>XML Developer's Guide</title>
@@ -14,8 +12,6 @@
         <publish_date>2000-10-01</publish_date>
 
     </book>
-
-
     <book>
 
         <author>Ralls, Kim</author>
@@ -29,5 +25,4 @@
         <publish_date>2000-12-16</publish_date>
 
     </book>
-
 </catalog>

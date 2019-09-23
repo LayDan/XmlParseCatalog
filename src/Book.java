@@ -1,8 +1,18 @@
+import javax.xml.bind.annotation.*;
+
+//@XmlRootElement(name = "book")
+//@XmlType(propOrder = {"author", "title", "genre", "price", "publish_date"})
+@XmlAccessorType(XmlAccessType.FIELD)
+
 public class Book {
     private String author;
+    //    @XmlElement(name = "title"
     private String title;
+    //    @XmlElement(name = "genre")
     private String genre;
+    //    @XmlElement(name = "price")
     private String price;
+    //    @XmlElement(name = "publish_date")
     private String publish_date;
 
     public Book() {
