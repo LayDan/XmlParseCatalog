@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalog>
+    <book>
+        <author>Мистер Утка</author>
+        <title>Утка без домика</title>
+        <genre>Реальность</genre>
+        <price>Безценно</price>
+        <publish_date>Сегодня</publish_date>
+    </book>
+</catalog>
